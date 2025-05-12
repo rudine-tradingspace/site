@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
+landing-title: 'Mike Rudine | Data Analyst | Data Engineer'
+description: "Big data study under a high precision microscope"
 image: null
 author: null
 show_tile: false
