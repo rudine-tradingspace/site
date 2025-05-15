@@ -3,8 +3,8 @@ title: Forty
 subtitle: by HTML5 UP
 email: youremailaddress@gmail.com
 description: Big data study under a high precision microscope
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: "/site" # the subpath of your site, e.g. /blog
+url: "https://mikerudine.github.io"
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
