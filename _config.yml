@@ -1,7 +1,7 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
+title: Analytics, Engineering, Researches
+subtitle: Big Data Work
+email: misharudine@gmail.com
 description: Big data study under a high precision microscope
 baseurl: "/site" # the subpath of your site, e.g. /blog
 url: "https://mikerudine.github.io"
@@ -22,12 +22,9 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
-  GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  GitHub: https://github.com/mikerudine
+  LinkedIn: https://www.linkedin.com/in/mikerudine/
+  Twitter: https://x.com/mikerudine
   Facebook:
   Slack:
 
