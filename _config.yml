@@ -7,11 +7,11 @@ baseurl: "/site" # the subpath of your site, e.g. /blog
 url: "https://mikerudine.github.io"
 author:
 street_address: 1234 Somewhere Road
-city: Nashville
+city: Kyiv
 state: TN
 zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+country: Ukraine
+phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
