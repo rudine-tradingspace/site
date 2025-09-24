@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: 'Mike Rudine | Data Analyst | Data Engineer'
-description: "Big data study under a high precision microscope"
+landing-title: 'NINE/TEN Digital Agency'
+description: "Apps, Sites, Researches"
 image: null
 author: null
 show_tile: false
