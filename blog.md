@@ -1,10 +1,10 @@
 ---
-title: Landing
+title: Blog and News
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'What we have to say'
 image: assets/images/pic07.jpg
 nav-menu: true
-show_tile: false
+show_tile: true
 ---
 
 <!-- Main -->
